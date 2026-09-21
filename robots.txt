@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cadejay.github.io/indexli-signals/sitemap.xml
